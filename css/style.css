@@ -1,6 +1,6 @@
 
  .navbar {    
-   background: black;  
+   background: #FFA07A;  
    text-transform: uppercase;
    font-weight: 700;   
    border: none;    
@@ -25,7 +25,7 @@
  }   
 
  header {
-   background: gray;
+   background: #20B2AA;
    color: white;
  }   
  header img {    
