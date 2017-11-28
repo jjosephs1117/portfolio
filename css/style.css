@@ -1,22 +1,22 @@
 
  .navbar {    
-   background: #FFA07A;  
+   background: #05386B	;  
    text-transform: uppercase;
    font-weight: 700;   
    border: none;    
  }
  .navbar .navbar-brand {
-   color: white;    
+   color: #EDF5E1	;    
  }
  .navbar .navbar-brand:hover{
-   color: white;
+   color: #EDF5E1	;
  }  
 
  .navbar .navbar-nav li a {
-   color: white;
+   color:#EDF5E1;
  }
  .navbar .navbar-nav li a:hover {
-   color: gray;
+   color: #EDF5E1;
  }
  
  .navbar-toggle{
@@ -25,9 +25,10 @@
  }   
 
  header {
-   background: #20B2AA;
-   color: white;
- }   
+   background:#5CDB95;
+   color:#EDF5E1 ;
+   }   
+   
  header img {    
    display: block;
    margin: 0 auto 20px;
@@ -55,8 +56,8 @@
    font-size: 3em;   
  }   
  section.about {   
-   background: gray;    
-   color: white;   
+   background: #5CDB95;    
+   color: #EDF5E1;   
  }   
      
  section.about .btn-outline {    
